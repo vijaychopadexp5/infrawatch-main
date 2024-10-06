@@ -1659,7 +1659,7 @@ section {
 }
 
 .contact .BgColor {
-  background-color: #0A6198;
+  background-color: #090d50;
   /* margin-right: -90px; */
 }
 
@@ -2431,7 +2431,7 @@ textarea {
 
 
 .footer .footer-content {
-  background-color: #0A6198;
+  background-color: #090d50;
   background-size: contain;
   padding: 60px 0 30px 0;
 }
@@ -2487,7 +2487,7 @@ textarea {
 }
 
 .footer .footer-content .social-links a:hover {
-  background-color: #38618e;
+  background-color: #090d50;
 }
 
 .footer .footer-content h4 {
@@ -2548,7 +2548,8 @@ a {
 }
 
 .footer .footer-legal {
-  background: #0A6198;
+  background: #090d50
+  ;
   padding: 20px 0;
 }
 
